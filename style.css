@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+/* 초기설정 */
+*{
+    margin:0;
+    padding:0;
+    list-style:none;
+    box-sizing: border-box;
+}
+body{
+    background: #FFFFFF;
+    color:#888888;
+}
+a{
+    text-decoration:none;
+    display: block;
+}
+
+main{
+    width: 1200px;
+    height: 700px;
+    position:relative; /*서브메뉴에 필요한 코드*/
+    margin: 0 auto;
+}

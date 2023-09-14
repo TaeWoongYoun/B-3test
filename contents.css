@@ -1,0 +1,24 @@
+.contents{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    background-color: #222222;
+}
+
+.c1{
+    width: 400px;
+    height: 200px;
+    background-color: #444444;
+}
+
+.c2{
+    width: 400px;
+    height: 200px;
+    background-color: #666666;
+}
+
+.c3{
+    width: 400px;
+    height: 200px;
+    background-color: #888888;
+}
